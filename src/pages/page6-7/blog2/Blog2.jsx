@@ -48,6 +48,7 @@ function openEdit(e) {
 
 function save() {
   let updateUser={
+    
     name:editName,
     image:editImage,
     id:idx
